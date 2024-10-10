@@ -22,6 +22,7 @@ def binary_search(arr, target):
 
     return (iterations, upper_bound)
 
+
 # Тестуємо функцію:
 arr = [1.2, 2.3, 3.5, 4.6, 5.7, 6.8, 7.9]
 target = 4.0
